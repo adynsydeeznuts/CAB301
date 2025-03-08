@@ -1,0 +1,15 @@
+e:\!QUT\2025\CAB301\TUTs\TUTs\bin\Debug\net9.0\TUTs.exe
+e:\!QUT\2025\CAB301\TUTs\TUTs\bin\Debug\net9.0\TUTs.deps.json
+e:\!QUT\2025\CAB301\TUTs\TUTs\bin\Debug\net9.0\TUTs.runtimeconfig.json
+e:\!QUT\2025\CAB301\TUTs\TUTs\bin\Debug\net9.0\TUTs.dll
+e:\!QUT\2025\CAB301\TUTs\TUTs\bin\Debug\net9.0\TUTs.pdb
+e:\!QUT\2025\CAB301\TUTs\TUTs\obj\Debug\net9.0\TUTs.GeneratedMSBuildEditorConfig.editorconfig
+e:\!QUT\2025\CAB301\TUTs\TUTs\obj\Debug\net9.0\TUTs.AssemblyInfoInputs.cache
+e:\!QUT\2025\CAB301\TUTs\TUTs\obj\Debug\net9.0\TUTs.AssemblyInfo.cs
+e:\!QUT\2025\CAB301\TUTs\TUTs\obj\Debug\net9.0\TUTs.csproj.CoreCompileInputs.cache
+e:\!QUT\2025\CAB301\TUTs\TUTs\obj\Debug\net9.0\TUTs.sourcelink.json
+e:\!QUT\2025\CAB301\TUTs\TUTs\obj\Debug\net9.0\TUTs.dll
+e:\!QUT\2025\CAB301\TUTs\TUTs\obj\Debug\net9.0\refint\TUTs.dll
+e:\!QUT\2025\CAB301\TUTs\TUTs\obj\Debug\net9.0\TUTs.pdb
+e:\!QUT\2025\CAB301\TUTs\TUTs\obj\Debug\net9.0\TUTs.genruntimeconfig.cache
+e:\!QUT\2025\CAB301\TUTs\TUTs\obj\Debug\net9.0\ref\TUTs.dll
