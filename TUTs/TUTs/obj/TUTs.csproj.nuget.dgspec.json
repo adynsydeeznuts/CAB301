@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "e:\\!QUT\\2025\\CAB301\\TUTs\\TUTs\\TUTs.csproj": {}
+    "E:\\!QUT\\2025\\CAB301\\TUTs\\TUTs\\TUTs.csproj": {}
   },
   "projects": {
-    "e:\\!QUT\\2025\\CAB301\\TUTs\\TUTs\\TUTs.csproj": {
+    "E:\\!QUT\\2025\\CAB301\\TUTs\\TUTs\\TUTs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "e:\\!QUT\\2025\\CAB301\\TUTs\\TUTs\\TUTs.csproj",
+        "projectUniqueName": "E:\\!QUT\\2025\\CAB301\\TUTs\\TUTs\\TUTs.csproj",
         "projectName": "TUTs",
-        "projectPath": "e:\\!QUT\\2025\\CAB301\\TUTs\\TUTs\\TUTs.csproj",
+        "projectPath": "E:\\!QUT\\2025\\CAB301\\TUTs\\TUTs\\TUTs.csproj",
         "packagesPath": "C:\\Users\\adyna\\.nuget\\packages\\",
-        "outputPath": "e:\\!QUT\\2025\\CAB301\\TUTs\\TUTs\\obj\\",
+        "outputPath": "E:\\!QUT\\2025\\CAB301\\TUTs\\TUTs\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
